@@ -1,0 +1,10 @@
+#---FFT List format: PrefixSuffix-fft.txt
+Prefix
+Suffix1
+Suffix2
+...
+#----------------------#
+515-2_75x_
+A
+B
+C

@@ -1,0 +1,14 @@
+---Mode (0-Range and Iteration; 1-Tabular data; 2-multifft)---
+2	Z	NAN
+---Range (starting at Init)--- (Tau0 TauS Theta0 Theta1)
+100	-100	0	-100	NAN
+---No of Iteration---(min 1) (Tau0 TauS Theta0 Theta1)
+1	2	2	1	NAN
+---Nsteps, Sample Size, Sample ID, FFT File name---
+100	128	CTFCut	515-2_75x_Full128-fft.txt	NAN
+---Experimental Data File Name---
+515-2_75x_Ji2020.csv	NAN
+---Tabular Data---
+Tau0	TauS	Theta0	Theta1	Label
+470.5	543.5	6000	100	128Test5
+Stop	Stop	Stop	Stop	NA
